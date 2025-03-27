@@ -34,6 +34,7 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 ![Screenshot 2025-03-27 111309](https://github.com/user-attachments/assets/c6019161-04e6-4ae7-839c-af586e254126)
 
+### Categorical Data Analysis
 
 
 ![Screenshot 2025-03-27 111318](https://github.com/user-attachments/assets/3b2928e2-1a2a-45ce-8197-c8560b32f70d)
@@ -59,6 +60,7 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 ![Screenshot 2025-03-27 111425](https://github.com/user-attachments/assets/2e1e0fc4-e382-4e2a-820c-9d4884a3c538)
 
+### Bivariate Analysis
 
 
 ![Screenshot 2025-03-27 111437](https://github.com/user-attachments/assets/f1e55e3a-9472-451c-8925-2c4c8437cc6b)
@@ -72,7 +74,7 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 ![Screenshot 2025-03-27 111456](https://github.com/user-attachments/assets/8fcbd084-8a64-4de0-a272-f214097c9a9a)
 
 
-
+### Multivariate Analysis
 ![Screenshot 2025-03-27 111504](https://github.com/user-attachments/assets/919f9070-cd20-4dca-8cdb-0341d26d0f6f)
 
 
