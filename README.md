@@ -56,11 +56,12 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 ![Screenshot 2025-03-27 111413](https://github.com/user-attachments/assets/4b02bc53-80c3-421a-93f9-ef3a7b8d2ef4)
 
+### Bivariate Analysis
 
 
 ![Screenshot 2025-03-27 111425](https://github.com/user-attachments/assets/2e1e0fc4-e382-4e2a-820c-9d4884a3c538)
 
-### Bivariate Analysis
+
 
 
 ![Screenshot 2025-03-27 111437](https://github.com/user-attachments/assets/f1e55e3a-9472-451c-8925-2c4c8437cc6b)
