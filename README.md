@@ -113,4 +113,3 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 # RESULT
 
 Thus exploratory data analysis on the given data set is executed successfully. 
-        
